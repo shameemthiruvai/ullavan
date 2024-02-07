@@ -78,7 +78,9 @@ nav a i {
 .tagline2 {
   color: var(--yellow);
 }
-
+.callus :nth-last-child() {
+  color: var(--yellow);
+}
 .maintext div {
   margin-top: 0.75em;
 }
