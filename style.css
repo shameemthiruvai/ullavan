@@ -114,6 +114,7 @@ button .menu {
   display: flex;
   padding: 5px;
   justify-content: center;
+  margin: auto;
 }
 #locheading {
   justify-content: left;
@@ -123,6 +124,7 @@ button .menu {
   display: flex;
   padding: 15px;
   padding-bottom: 0.5px;
+  margin: auto;
 }
 .menu {
   display: grid;
@@ -137,7 +139,7 @@ button .menu {
   font-size: 1.8em;
 }
 
-table {
+.table {
   width: 100%;
   padding: 1em;
 }
